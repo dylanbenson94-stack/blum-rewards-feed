@@ -1,0 +1,150 @@
+{
+  "updated_at": "2026-11-23T03:38:14.347Z",
+  "disclaimer": "Blūm is not affiliated with these brands unless stated.",
+  "offers": [
+    {
+      "id": "liquid-iv",
+      "brand": "Liquid I.V.",
+      "title": "20% off your first order",
+      "type": "code",
+      "category": "hydration",
+      "code": "EXTRA20",
+      "url": "https://www.liquid-iv.com",
+      "terms": "20% off first order with code EXTRA20.",
+      "point_cost": 75,
+      "added_at": "2026-11-22"
+    },
+    {
+      "id": "factor",
+      "brand": "Factor",
+      "title": "50% off your first box",
+      "type": "link",
+      "category": "meals",
+      "code": null,
+      "url": "https://www.factor75.com",
+      "terms": "50% off first box, applied automatically.",
+      "point_cost": 450,
+      "added_at": "2026-11-22"
+    },
+    {
+      "id": "hungryroot",
+      "brand": "Hungryroot",
+      "title": "30% off your first delivery",
+      "type": "link",
+      "category": "meals",
+      "code": null,
+      "url": "https://www.hungryroot.com",
+      "terms": "30% off first delivery. Per Hungryroot's Terms of Use: one Promotion per account and per household; U.S. residents only (excludes Hawaii and Alaska, P.O. Boxes, and APO/FPO/DPO); requires a Hungryroot periodic subscription plan.",
+      "point_cost": 300,
+      "added_at": "2026-11-22"
+    },
+    {
+      "id": "orgain",
+      "brand": "Orgain",
+      "title": "15% off subscription products",
+      "type": "link",
+      "category": "protein",
+      "code": null,
+      "url": "https://orgain.com",
+      "terms": "15% off subscription products, applied in cart.",
+      "point_cost": 100,
+      "added_at": "2026-11-22"
+    },
+    {
+      "id": "renpho",
+      "brand": "Renpho",
+      "title": "10% off your next purchase",
+      "type": "signup",
+      "category": "scales_tracking",
+      "code": null,
+      "url": "https://renpho.com",
+      "terms": "Unlock 10% OFF your next purchase—just share your email and phone number with us!",
+      "point_cost": 75,
+      "added_at": "2026-11-22"
+    },
+    {
+      "id": "theraband",
+      "brand": "TheraBand",
+      "title": "20% off your first order",
+      "type": "code",
+      "category": "strength_fitness",
+      "code": "MYFIRST20",
+      "url": "https://theraband.com",
+      "terms": "",
+      "point_cost": 150,
+      "added_at": "2026-11-22"
+    },
+    {
+      "id": "thorne-fibermend",
+      "brand": "Thorne",
+      "title": "10% off FiberMend with subscription",
+      "type": "link",
+      "category": "fiber_digestive",
+      "code": null,
+      "url": "https://www.thorne.com/products/dp/fibermend-trade",
+      "terms": "Save 10% when you subscribe to 1 or 2 different products. Save 20% when you subscribe to 3 or more different products. Discount updates automatically based on your current number of subscriptions. Does not apply to product stacks. Wholesale subscriptions are not eligible for a subscription discount and will not receive free shipping on the initial product purchase. Free shipping only available within the contiguous United States.",
+      "point_cost": 100,
+      "added_at": "2026-11-22"
+    },
+    {
+      "id": "nuun",
+      "brand": "Nuun",
+      "title": "15% off subscription orders",
+      "type": "link",
+      "category": "hydration",
+      "code": null,
+      "url": "https://nuunlife.com",
+      "terms": "Save 15% off your subscription order when you enroll in subscription. Savings will automatically apply to cart. Your subscription will automatically renew, and you will continue to be charged on a recurring basis at the delivery frequency you select until you cancel. Additional terms apply. See nuunlife.com/pages/subscribe for details. Valid only on orders shipped within the continental U.S. Valid on in-stock merchandise only, while supplies last. Offer cannot be combined or used in conjunction with any other promotion, discount or coupon code. Not redeemable for cash, non-transferable, and cannot be replaced if lost or stolen. Excludes taxes. Other exclusions may apply. Valid at nuunlife.com.",
+      "point_cost": 100,
+      "added_at": "2026-11-22"
+    },
+    {
+      "id": "dripdrop",
+      "brand": "DripDrop",
+      "title": "25% off subscription orders",
+      "type": "link",
+      "category": "hydration",
+      "code": null,
+      "url": "https://dripdrop.com",
+      "terms": "",
+      "point_cost": 200,
+      "added_at": "2026-11-22"
+    },
+    {
+      "id": "cookunity",
+      "brand": "CookUnity",
+      "title": "50% off your first week",
+      "type": "link",
+      "category": "meals",
+      "code": null,
+      "url": "https://www.cookunity.com",
+      "terms": "The welcome promotion is only valid for first-time subscribers or first-time One-time Order customers and for the duration specified on the promotion’s description. This offer cannot be postponed, saved or skipped for any other period during the subscription. In the case of an adjustment to an order, this charge is not refundable. The offer is valid for an individual customer, meaning that for any duplicate accounts, CookUnity has sole discretion to charge any extra fees or cancel/deactivate duplicate accounts.",
+      "point_cost": 450,
+      "added_at": "2026-11-22"
+    },
+    {
+      "id": "chicos",
+      "brand": "Chico's",
+      "title": "20% off when you join the email list",
+      "type": "signup",
+      "category": "clothing",
+      "code": null,
+      "url": "https://www.chicos.com/store/",
+      "terms": "",
+      "point_cost": 150,
+      "added_at": "2026-11-22"
+    },
+    {
+      "id": "viviscal",
+      "brand": "Viviscal",
+      "title": "10% off with subscription",
+      "type": "link",
+      "category": "hair",
+      "code": null,
+      "url": "https://www.viviscal.com",
+      "terms": "",
+      "point_cost": 100,
+      "added_at": "2026-11-22"
+    }
+  ]
+}
